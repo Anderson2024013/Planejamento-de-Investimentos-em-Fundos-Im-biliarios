@@ -1,4 +1,4 @@
-# Planejamento-de-Investimentos-em-Fundos-Im-biliarios
+# Planejamento-de-Investimentos-em-Fundos-Imobiliarios
 Projeto de  Planejamento de Investimentos em Fundos Imóbiliarios:
 Este projeto foi desenvolvido em *Excel* com o objetivo de *auxiliar investidores a planejar, simular e acompanhar investimentos mensais em Fundos Imobiliários (FIIs)*, considerando perfil de risco, retorno esperado e geração de renda passiva por meio de dividendos.
 
